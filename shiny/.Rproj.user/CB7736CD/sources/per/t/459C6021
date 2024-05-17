@@ -1,0 +1,24 @@
+{
+    "id": "459C6021",
+    "path": "~/Documents/GitHub/R/shiny/project3/model.R",
+    "project_path": "project3/model.R",
+    "type": "r_source",
+    "hash": "2589053357",
+    "contents": "",
+    "dirty": false,
+    "created": 1714355998379.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1714355885,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1714355885,
+    "read_only": false,
+    "read_only_alternatives": []
+}
